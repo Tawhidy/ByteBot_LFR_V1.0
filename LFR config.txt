@@ -1,0 +1,8 @@
+battery: 2s Lipo
+controller: Arduino nano
+sensor: qtr 8rc
+motor: micrometal gear motors 1:10
+motor driver: tb6612fng
+buck converter: s7v7f5
+Wheels: solarobotics 2wi
+pcb will be fanufactured from jlcpcb
