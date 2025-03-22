@@ -1,6 +1,6 @@
 battery: 2s Lipo
 controller: Arduino nano
-sensor: qtrx MD-07 RC
+sensor: qtr MD-08 RC
 motor: polulu micrometal gear motors HPCB 1:10 3300 rpm X2 
 motor driver: tb6612fng X2
 buck converter: LM1117MP-5.0
