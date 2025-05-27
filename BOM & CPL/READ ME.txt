@@ -1,0 +1,10 @@
+Explanations of the contents in the excel file:
+
+1. regarding PCBA (supplied by JLCPCB), the link is the payment link. It should not be more than USD 78
+
+2. Ignore the gray components.
+
+3. regarding polulu orders, the links are product link. I have provided pictures to guide. 
+Shipping option: FedEx International Connect Plus
+
+Thank you.
